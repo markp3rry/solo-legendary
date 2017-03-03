@@ -1,0 +1,2 @@
+# solo-legendary
+Solo Legendary
